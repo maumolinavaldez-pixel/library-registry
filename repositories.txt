@@ -8774,3 +8774,4 @@ https://github.com/HuuPhuoc2411/ESP32Feature28
 https://github.com/solamyl/Mini_Button
 https://github.com/danilogcrf2-oss/ESP32Synth
 https://github.com/maumolinavaldez-pixel/BioLogic
+https://github.com/maumolinavaldez-pixel/BioLogic_STM32
